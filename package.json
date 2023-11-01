@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Your project description",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "ws": "^8.14.2"
   }
 }

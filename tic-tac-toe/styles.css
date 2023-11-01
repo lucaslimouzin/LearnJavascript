@@ -61,3 +61,16 @@ body {
     margin-top: -15%;
     width: 100%;
 }
+
+#lobby {
+    margin: 50px auto;
+}
+
+#joinButton {
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+#status {
+    margin-top: 20px;
+}
